@@ -1,6 +1,6 @@
 # Hi, I'm Vinay Patel 👋
 
-**16+ years in IT | Observability Engineer | ELK Stack Specialist**
+**Observability Engineer | ELK Stack Specialist**
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🔭 Working with **Elasticsearch, Logstash, Kibana** at expert level
 - 🧠 Deep expertise in: ILM, Shard Management, Data Streams, Ingest Pipelines, ES|QL, Cross Cluster Search
-- 📦 Exploring: **ClickHouse**, OpenTelemetry, AI/ML fundamentals
+- 📦 Exploring: OpenTelemetry, AI/ML fundamentals
 - 🌍 Based in **India**
 
 ---
