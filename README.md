@@ -17,8 +17,8 @@
 
 | Certification | Issuer | Verify |
 |---|---|---|
-| [Elastic Certified Engineer](YOUR_CERT_URL) | Elastic | [🔗 Link](https://credentials.elastic.co/profile/f2ae81ee-...) |
-| *(add your other Elastic certs here)* | Elastic | 🔗 |
+| [Elastic Certified Observability Engineer] | Elastic | [🔗 Link](https://certified.elastic.co/0e9f3145-95ce-4294-8146-d0ae9116d2f8) |
+| [Elastic GenAI Associate Accreditation] | Elastic | [🔗 Link](https://certified.elastic.co/38879d36-810b-46dd-a5bb-10cf972beeb9) |
 
 ---
 
