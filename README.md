@@ -9,7 +9,7 @@
 - 🔭 Working with **Elasticsearch, Logstash, Kibana** at expert level
 - 🧠 Deep expertise in: ILM, Shard Management, Data Streams, Ingest Pipelines, ES|QL, Cross Cluster Search
 - 📦 Exploring: **ClickHouse**, OpenTelemetry, AI/ML fundamentals
-- 🌍 Based in **Mumbai, India**
+- 🌍 Based in **India**
 
 ---
 
